@@ -30,6 +30,7 @@ npm run serve
 
 Once both the API and the front-end application are running, you should be able to run the application successfully. 
 
+Ignore the below, not relevant for running locally. 
 ### Compiles and minifies for production
 ```
 npm run build
