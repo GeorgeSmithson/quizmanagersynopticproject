@@ -1,0 +1,92 @@
+//Test data used before hooking up to API and Database
+{
+    "_id": 0,
+    "title": "General Knowledge",
+    "questions":
+    [
+       {
+          "question":"What is the time?",
+          "answers":
+          [
+             "Now",
+             "Then",
+             "Later"
+          ]
+       },
+       {
+          "question":"What is the day?",
+          "answers":
+          [
+             "Monday",
+             "Tuesday",
+             "Wednesday",
+             "Thursday"
+          ]
+       }
+    ]
+ }
+ 
+ {
+    "_id": 1,
+    "title": "Science",
+    "questions":
+    [
+       {
+          "question":"What is fire?",
+          "answers":
+          [
+             "Hot",
+             "Cold",
+             "Nothing"
+          ]
+       },
+       {
+          "question":"How many stars are there?",
+          "answers":
+          [
+             "A lot",
+             "Not Enough",
+             "Some",
+             "None"
+          ]
+       }
+    ]
+ }
+ 
+ {
+    "_id": 2,
+    "title": "Maths",
+    "questions":
+    [
+       {
+          "question":"What is 1 + 1",
+          "answers":
+          [
+             "3",
+             "4",
+             "2"
+          ]
+       },
+       {
+          "question":"What is 5 + 5",
+          "answers":
+          [
+             "10",
+             "11",
+             "12",
+             "13"
+          ]
+       },
+       {
+          "question":"What is 10 - 5?",
+          "answers":
+          [
+             "20",
+             "5",
+             "100",
+             "1"
+          ]
+       }
+    ]
+ }
+

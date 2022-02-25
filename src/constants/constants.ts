@@ -1,0 +1,1 @@
+export const apiURL = 'http://localhost:61812/api/quiz/';
