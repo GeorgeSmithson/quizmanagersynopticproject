@@ -2,6 +2,8 @@
 
 My test plan, design and implementation documents and the user guide are in the Write Up Documents folder. 
 
+The credentials for the login screen are in the src/users/users.ts file.
+
 ## Project setup
 
 Due to the constraints imposed by the browser with relation to CORS, in order for the application to work correctly you must run using Google Chrome in Developer mode. To do so, ensure Chrome is installed and then create a shortcut on your desktop to the path below. 
