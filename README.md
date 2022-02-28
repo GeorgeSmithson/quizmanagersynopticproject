@@ -21,11 +21,18 @@ Once you have setup and installed the above, in Command Prompt navigate inside o
 ```
 npm install
 ```
-After these have been installed, open Visual Studio 2022 and open the '/finalsynopticquizmanager/QuizManagerAPI/QuizManagerAPI.csproj' Visual Studio project. 
+After these have been installed, open Visual Studio 2022 and open the below Visual Studio project. 
+```
+/finalsynopticquizmanager/QuizManagerAPI/QuizManagerAPI.csproj
+```
 
 Once open, click the debug/run button to start the API. 
 
-Once this has loaded successfully, navigate back to /finalsynopticquizmanager/ folder in Command Prompt and run the below command to run the application in a live server. 
+Once this has loaded successfully, navigate back to the below folder in Command Prompt
+```
+/finalsynopticquizmanager/
+```
+and run the below command to run the application in a live server. 
 
 ### Compiles and hot-reloads for development
 ```
